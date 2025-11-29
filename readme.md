@@ -9,7 +9,7 @@ A fully functional Sudoku implementation in x86 16-bit assembly with real-time i
 ## 👥 Team Members
 
 - **Marwan Ibrahim Amin Ibrahim**
-- **Moataz Ibrahim Elsaied Saleh**
+- **Moataz Ibrahim Al-Sayed Saleh**
 - **Mariam Mohamed Hassan Yassine**
 
 ---
